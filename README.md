@@ -6,7 +6,7 @@ This is a set of tools and ros packages for implementing wireless control of a B
 Prerequisites
 -------------
 1. ROS (hydro or newer)
-2. Bioloid kit with CM-530
+2. Bioloid kit with CM-530 microcontroller
 3. Either the zigbee or BT-210 bluetooth module from Robotis
 4. Bluetooth on the PC
 
