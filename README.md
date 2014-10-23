@@ -12,10 +12,10 @@ Prerequisites
 
 Components
 ----------
-1. zigbee/serial library
-2. bioloid_ros_firmware
-3. bioloid_ros_driver
-4. a ROS control node (this is your control code)
+1. serial library (a serial library used by the bioloid_ros_driver)
+2. bioloid_ros_firmware (c project requiring cross-compilation toolchain for ARM Cortex-M3 microprocessor)
+3. bioloid_ros_driver (a ROS package with a driver node providing a ROS service interface to communicate with the firmware on the bioloid)
+4. bioloid_ros_examples (a ROS package with example control nodes)
 
 Installation
 ------------
