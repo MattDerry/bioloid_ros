@@ -1,15 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>bioloid_ros_driver</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>Driver for Bioloid Premium Kit with CM-530 Microcontroller</description>
 
   <maintainer email="mderry@gmail.com">Matt Derry</maintainer>
-
-  <license>BSD</license>
-
+  <license>MIT</license>
   <url type="website">http://ros.org/wiki/bioloid_ros_driver</url>
-
   <author email="mderry@gmail.com">Matt Derry</author>
 
   <buildtool_depend>catkin</buildtool_depend>
